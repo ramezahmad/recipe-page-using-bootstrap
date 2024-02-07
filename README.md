@@ -1,8 +1,8 @@
 # Frontend Mentor - Recipe page
 
-demo live site 
+Demo live website [Recipe-Page](https://ramezahmad.github.io/recipe-page-using-bootstrap/)
 
-(./design/desktop-preview.jpg)
+![Design preview for the Recipe page coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
 
